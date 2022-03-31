@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./img/share-img.png">
+    <img src="./img/share-img.jpg">
 </h1>
 
 <h3 align="center">Você pode acessar o projeto <a href="https://neon-project.netlify.app" target="_blank">clicando aqui</a></h3>
